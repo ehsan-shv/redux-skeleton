@@ -1,0 +1,21 @@
+{
+  "name": "redux-skelton",
+  "version": "1.0.0",
+  "description": "Redux skelton with redux toolkit",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --config ./webpack.config.js"
+  },
+  "keywords": [],
+  "author": "Ehsan Shahverdi",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.45.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.6.1",
+    "redux": "^4.1.0"
+  }
+}
