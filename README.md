@@ -1,4 +1,4 @@
-## Redux skeleton with reduxt toolkit.
+## Redux skeleton with redux toolkit.
 
 More about [reduxt toolkit](https://redux-toolkit.js.org/).
 
