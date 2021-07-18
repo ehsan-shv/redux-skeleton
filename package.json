@@ -1,7 +1,7 @@
 {
-  "name": "redux-skelton",
+  "name": "redux-skeleton",
   "version": "1.0.0",
-  "description": "Redux skelton with redux toolkit",
+  "description": "Redux skeleton with redux toolkit",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config ./webpack.config.js"
