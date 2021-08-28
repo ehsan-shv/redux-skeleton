@@ -2,7 +2,7 @@ import configureStore from './store/configureStore'
 import { postAdded } from './store/posts'
 import { commentAdded } from './store/comments'
 
-const store = configureStore()
+const store = configureStore
 
 store.dispatch(postAdded({ description: 'Post-1' }))
 store.dispatch(postAdded({ description: 'Post-2' }))

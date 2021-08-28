@@ -1,6 +1,6 @@
 ## Redux skeleton with redux toolkit.
 
-More about [reduxt toolkit](https://redux-toolkit.js.org/).
+More about [redux toolkit](https://redux-toolkit.js.org/).
 
     # serve at localhost:8000
     $ npm start
